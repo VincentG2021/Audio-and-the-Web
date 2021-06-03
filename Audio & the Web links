@@ -1,0 +1,132 @@
+AUDIO & the WEB presentation on
+https://docs.google.com/presentation/d/1TEowlBQTxHTRQAHD1HAcEoi_Ov3tleAOMLxb8-0RGkw/edit?usp=sharing
+
+SOURCES of INSPIRATION :
+
+http://www.evolutionoftheweb.com/
+https://www.playhooky.fr/
+https://www.medium.com/
+https://webaudiotech.com/
+https://webartdevelopers.com/
+https://webaudioconf2021.com/
+
+https://en.wikipedia.org/wiki/Container_format_(computing)
+https://en.wikipedia.org/wiki/Category:Digital_audio
+https://en.wikipedia.org/wiki/Codec
+https://en.wikipedia.org/wiki/Audio_file_format
+https://fr.wikipedia.org/wiki/Polyfill
+
+https://en.wikipedia.org/wiki/Voice_over_IP
+https://en.wikipedia.org/wiki/Streaming_media
+https://en.wikipedia.org/wiki/Internet_of_things
+
+WEB HTML5 audio element 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
+and MediaElement API
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement
+
+WEB AUDIO API :
+https://www.w3.org/TR/webaudio/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+https://designsmaz.com/free-html5-audio-players-website/
+https://www.sitepoint.com/5-libraries-html5-audio-api/
+https://dev.to/areknawo/9-libraries-to-kickstart-your-web-audio-stuff-460p
+
+Article posted in 2021 : 
+https://medium.com/geekculture/building-a-modular-synth-with-web-audio-api-and-javascript-d38ccdeca9ea
+
+Article posted in 2019 : 
+https://developers.google.cn/web/updates/2012/02/HTML5-audio-and-the-Web-Audio-API-are-BFFs
+
+Articles posted in 2015 : 
+http://johnstejskal.com/wp/an-introduction-to-the-web-audio-api/
+http://johnstejskal.com/wp/playing-sound-and-music-on-mobile-with-the-web-audio-api/
+
+MORE :
+
+https://fr.wikipedia.org/wiki/HTML5#/media/Fichier:HTML5_APIs_and_related_technologies_taxonomy_and_status.svg
+
+https://www.w3.org/wiki/WebIntents/MIME_Types
+
+https://developer.mozilla.org/fr/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
+https://developer.mozilla.org/en-US/docs/Web/Media/Formats
+
+https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
+
+https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API/Using_the_Media_Capabilities_API
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Web_audio_spatialization_basics
+
+https://github.com/mdn/learning-area/blob/master/html/multimedia-and-embedding/video-and-audio-content/multiple-audio-formats.html
+
+https://github.com/jagreehal/web-audio-issues
+
+Audio Node graph
+https://developer.mozilla.org/en-US/docs/Web/API/AudioNode
+
+web audio inspector
+https://github.com/GoogleChrome/audion
+
+https://github.com/Raathigesh/HTML5AudioVisualizer
+seen on https://www.programmersought.com/article/563055099/ 
+
+
+AND MORE :
+
+https://en.wikipedia.org/wiki/Metadata
+
+https://en.wikipedia.org/wiki/ID3
+
+https://slidetodoc.com/microdata-and-schema-org-basics-l-microdata-is-2/
+
+https://rhizomik.net/html/~roberto/thesis/html/SemanticWeb.html
+
+https://en.wikipedia.org/wiki/RDF_Schema
+
+https://www.w3.org/wiki/WebSchemas/Accessibility
+
+https://schema.org/audio
+
+https://developers.google.com/search/docs/guides/intro-structured-data#structured-data-format
+
+https://search.google.com/test/rich-results
+
+https://www.searchenginejournal.com/speakable/262857/#close
+
+Old school
+https://recitmst.qc.ca/documents/web201/sons.html
+https://www.lysator.liu.se/~zap/tutorial/index.html
+https://www.lysator.liu.se/~zap/tutorial/mime.html
+https://www.lysator.liu.se/~zap/tutorial/midi.html#flame
+
+Audio everywhere
+
+https://sonicmaps.xyz/
+
+digital audio medias : radios, music, books, articles, podcasts, sound maps...
+
+High Techs
+
+https://medium.com/@roblohmer/the-audio-web-ever-heard-of-it-a915f5bd378c
+
+AI : intelligent speakers / automatic transcriptors + translators...
+
+...spatial sound, Audio AR Intelligent Headset
+
+https://www.futura-sciences.com/tech/actualites/technologie-intelligent-headset-casque-audio-realite-augmentee-49063/
+
+T-Books, T-Paper
+
+https://www-user.tu-chemnitz.de/~schg/t-paper/wordpress/
+
+etc...
+
+https://www.soundonsound.com
+
+https://webaudioplayground.appspot.com/
+
+https://www.ircam.fr/agenda/design-dexperiences-audio-sur-le-web-1/detail/
